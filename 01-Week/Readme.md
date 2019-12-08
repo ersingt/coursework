@@ -10,9 +10,9 @@
 
 ## Deliverables
 
--   **Due Monday, September 16, by EOD:**
-  -   [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-10/1.01-lab-pokemon)
-  -   [1.02 Loot Boxes Lab](https://git.generalassemb.ly/DSI-US-10/1.02-lab-loot-boxes)
+-   **Due Monday, December 16, by EOD:**
+    -   [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-10/1.01-lab-pokemon)
+    -   [1.02 Loot Boxes Lab](https://git.generalassemb.ly/DSI-US-10/1.02-lab-loot-boxes)
 
 -   Please submit your work (labs and projects) through [Google Classroom](https://classroom.google.com/). We will go over Google Classroom in class! (see what I did there?)
 
