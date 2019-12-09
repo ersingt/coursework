@@ -2,7 +2,7 @@ Welcome to the first day of the course! First thing we'll do will be to make sur
 
 
 ## Installfest
-Your zero-day resources can be found [here](https://git.generalassemb.ly/DSI-US-10/0.00-zero-day)
+Your "Installfest" resources can be found [here](https://git.generalassemb.ly/DSI-US-10/0.00-zero-day).
 
  - [Mac/Linux install guide](https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Student-Install-Guide)
  - [Windows install guide](https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Student-Install-Guide---Windows)
@@ -10,10 +10,10 @@ Your zero-day resources can be found [here](https://git.generalassemb.ly/DSI-US-
  
 ## Your command line lessons
  - [Intro to terminal](https://git.generalassemb.ly/DSI-US-10/0.00-zero-day/blob/master/intro-to-terminal.md)
- - [CLI Exercise - Lion King](https://git.generalassemb.ly/DSI-US-10/DC-Flex-10/blob/master/01-Week/01-development-environment/Lion-King-CLI-Exercise.ipynb)
+ - [CLI Exercise - Lion King](https://git.generalassemb.ly/DSI-US-10/DC-Flex/blob/master/01-Week/01-development-environment/Lion-King-CLI-Exercise.ipynb)
 
 ## Your basic git / GitHub / GHE lessons
  - [Intro to git](https://git.generalassemb.ly/DSI-US-10/0.00-zero-day/blob/master/intro-to-git.pdf)
- - [Day-to-day basics in git](https://git.generalassemb.ly/DSI-US-10/DC-Flex-10/blob/master/01-Week/01-development-environment/%5BDSI-CC-8%5D01-Git-busters(Day-to-Day-Basics).pdf)
+ - [Day-to-day basics in git](https://git.generalassemb.ly/DSI-US-10/DC-Flex/blob/master/01-Week/01-development-environment/%5BDSI-CC-8%5D01-Git-busters(Day-to-Day-Basics).pdf)
  
  
