@@ -10,9 +10,9 @@
 
 ## Deliverables
 
--   **Due Monday, December 16, by EOD:**
-    -   [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-10/1.01-lab-pokemon)
-    -   [1.02 Loot Boxes Lab](https://git.generalassemb.ly/DSI-US-10/1.02-lab-loot-boxes)
+-   **Due Monday, September 16, by EOD:**
+  -   [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-10/1.01-lab-pokemon)
+  -   [1.02 Loot Boxes Lab](https://git.generalassemb.ly/DSI-US-10/1.02-lab-loot-boxes)
 
 -   Please submit your work (labs and projects) through [Google Classroom](https://classroom.google.com/). We will go over Google Classroom in class! (see what I did there?)
 
@@ -68,3 +68,6 @@ Here are some great visual resources:
     -   [Git Cheat Sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 -   [Git and Command Line Cheat Sheets](https://git.generalassemb.ly/AdiBro/Resources/tree/master/Cheat-Sheets#command-line-and-git)
 -   [More Development Enivronment Resources](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Enviroment.md)
+
+## Weekly Calendar
+[Google Calendar for DC Campus](https://calendar.google.com/calendar?cid=Z2VuZXJhbGFzc2VtYi5seV9jbGFzc3Jvb21jNjIzY2NhNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) - this calendar updated as we progress in the course. Please subscribe to this calendar so you're up-to-date with lessons, activities, events and more!
