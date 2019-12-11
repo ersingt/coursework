@@ -27,7 +27,7 @@
 -   Our first quiz! Quiz 1 will include all of the material from this week. Quiz review to come!
 
 ### **Due Monday, December 16, by EOD**
--   [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-109/1.01-lab-pokemon)
+-   [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-10/1.01-lab-pokemon)
 -   [1.02 Loot Boxes Lab](https://git.generalassemb.ly/DSI-US-10/1.02-lab-loot-boxes)
 
 ## Resources
