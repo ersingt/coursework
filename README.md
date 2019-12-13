@@ -9,8 +9,8 @@ A place for DC-specific course information and flex time activities/materials - 
 
 ## Lesson Recordings
 
--   [Global Lesson Recordings](TBA) - this is the link to the **Global Lectures.**
--   [Local Lesson Recordings](TBA) - this is the link to the **Local Lessons.**
+-   [Global Lesson Recordings](https://git.generalassemb.ly/DSI-US-10/course-info/blob/master/recordings.md) - this is the link to the **Global Lectures** recordings.
+-   [Local Lesson Recordings](https://www.youtube.com/playlist?list=PLD2G5Mz82iK76j_XWAyfuAYeRd6wB-Ipk) - this is the link to the **Local Lessons** recordings.
 
 ## Assignments
 
@@ -26,7 +26,7 @@ A place for DC-specific course information and flex time activities/materials - 
 ## Office Hours
 
 - Book office hours with **Global Instructors and remote TAs [here](https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours).**
-- Contact **Adi Bronshtein** in person or (preferably) on Slack to book a scheduled one-on-one with your instructional team. You can also contact **Chuck Dye**, our Instructor Associate for help in-person or on Slack.
+- Contact **Adi Bronshtein** in person or on Slack to book a scheduled one-on-one with your instructional team. You can also contact **Chuck Dye**, our Instructor Associate for help in-person or on Slack.
 
 ## Weekly Calendar
 
