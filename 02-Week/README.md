@@ -12,12 +12,12 @@
 ## Deliverables
 
 -   **Due Monday, December 16, by EOD:**
-  -   [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-10/1.01-lab-pokemon)
-  -   [1.02 Loot Boxes Lab](https://git.generalassemb.ly/DSI-US-10/1.02-lab-loot-boxes)  
+    -   [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-10/1.01-lab-pokemon)
+    -   [1.02 Loot Boxes Lab](https://git.generalassemb.ly/DSI-US-10/1.02-lab-loot-boxes)  
 
 
 -   **Due Friday, December 20, by 10:00AM**:
-  -   [Project 1](https://git.generalassemb.ly/DSI-US-10/project_1) - **all deliverables** (Jupyter Notebook, Readme, slide deck [as a PDF file] are **due at 10AM**. For more information, check out the [Deliverables section](https://git.generalassemb.ly/DSI-US-9/project_1). It's also a good idea to check out this [Style Guide](https://git.generalassemb.ly/DSI-US-9/project_1#style-guide-and-suggested-resources)
+    -   [Project 1](https://git.generalassemb.ly/DSI-US-10/project_1) - **all deliverables** (Jupyter Notebook, Readme, slide deck [as a PDF file] are **due at 10AM**. For more information, check out the [Deliverables section](https://git.generalassemb.ly/DSI-US-9/project_1). It's also a good idea to check out this [Style Guide](https://git.generalassemb.ly/DSI-US-9/project_1#style-guide-and-suggested-resources)
 
 
 -   Please use [Google Classroom](https://classroom.google.com) to submit your assignments. Don't forget to mark the assignments as 'Done' when submitting!
