@@ -6,6 +6,7 @@ A place for DC-specific course information and flex time activities/materials - 
 
 -   [Syllabus](./Syllabus) - Course information and policies
 -   [Week 1](./01-Week) - Git, Python for Data Science, Statistics, Probability
+-   [Week 2](./02-Week) - Pandas, Data Analysis and Visualization, Statistics
 
 ## Lesson Recordings
 
