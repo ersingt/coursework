@@ -28,7 +28,7 @@
     > -   `git commit -m 'submitting lab X'` to commit the files
     > -   `git push` to push your files to your submission folder/repo
 
-## This Week's Assignments (due next week)
+## This Week's Assignments (due Thursday, January 2nd)
 
 -   [2.01 Titanic EDA Lab](https://git.generalassemb.ly/DSI-US-10/2.01-lab-pandas-titanic)
 -   [2.02 Pandas Concatenation Lab](https://git.generalassemb.ly/DSI-US-10/2.02-lab-pandas-concat)
