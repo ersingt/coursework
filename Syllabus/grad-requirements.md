@@ -29,7 +29,7 @@ Advice for aspiring data scientists: start a blog by David Robinson, "Why You Sh
 * **Assessments**
   * Bi-weekly quizzes every other Friday (There will be one at the end of the first week.)
   * You have to do your best to pass.
-* In summary - there are 2 labs, 6 quizzes and 6 blog posts - 32 assignments total. **You need to get to at least 80%, which is 26 assignments** (doesn't matter which assignments/what combination of assignments), as well as **pass all of the projects.** (projects don't count for the 80%).
+* In summary - there are 21 labs, 6 quizzes and 6 blog posts - 33 assignments total. **You need to get to at least 80%, which is 27 assignments** (doesn't matter which assignments/what combination of assignments), as well as **pass all of the projects.** (projects don't count for the 80%).
 
 ### Additional data science blogs
 > Note: Getting started can be tough, and we will provide some guidance for possible blog topics - but don't wait for guidance to get started! Write about what got you into data science, what excites you, and what's challenging. Capture it all while it's fresh! You can go back on a weekly basis and curate/edit a blog post out of that.
