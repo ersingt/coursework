@@ -8,15 +8,15 @@
 ## Deliverables
 
 -   **Due Thursday, January 2, by EOD:**
-  -   [2.01 Titanic EDA Lab](https://git.generalassemb.ly/DSI-US-10/2.01-lab-pandas-titanic)
-  -   [2.02 Excel Madness Lab](https://git.generalassemb.ly/DSI-US-10/2.02-lab-excel-madness)
+    -   [2.01 Titanic EDA Lab](https://git.generalassemb.ly/DSI-US-10/2.01-lab-pandas-titanic)
+    -   [2.02 Excel Madness Lab](https://git.generalassemb.ly/DSI-US-10/2.02-lab-excel-madness)
 
 
-    > Reminder: To submit a lab, just navigate to the repo containing that lab on your computer, then:
-    >
-    > -   `git add .` to add the files to the staging area
-    > -   `git commit -m 'submitting lab X'` to commit the files
-    > -   `git push` to push your files to your submission folder/repo
+  > Reminder: To submit a lab, just navigate to the repo containing that lab on your computer, then:
+  >
+  > -   `git add .` to add the files to the staging area
+  > -   `git commit -m 'submitting lab X'` to commit the files
+  > -   `git push` to push your files to your submission folder/repo
 
 ## This Week's Assignments (due next week)
 
