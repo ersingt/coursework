@@ -31,7 +31,7 @@
 ## This Week's Assignments (due Thursday, January 2nd)
 
 -   [2.01 Titanic EDA Lab](https://git.generalassemb.ly/DSI-US-10/2.01-lab-pandas-titanic)
--   [2.02 Pandas Concatenation Lab](https://git.generalassemb.ly/DSI-US-10/2.02-lab-pandas-concat)
+-   [2.02 Excel Madness Lab](https://git.generalassemb.ly/DSI-US-10/2.02-lab-excel-madness)
 -   Note: the labs might not be pushed yet and you might get a 404 page. If that happens, just check again later!
 
 ## Resources
