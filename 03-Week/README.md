@@ -19,8 +19,8 @@
 
 ## This Week's Assignments (due next week)
 
--   [3.01 Linear Regression Lab](#3.01 Linear Regression) - link to come!
--   [3.02 Validation Lab](#3.02 Validation Lab) - link to come!
+-   [3.01 Linear Regression Lab](https://git.generalassemb.ly/DSI-US-10/3.01-lab-linear-regression)
+-   [3.02 Validation Lab](https://git.generalassemb.ly/DSI-US-10/3.02-lab-regression-and-model-validation)
 
 ## Resources
 
