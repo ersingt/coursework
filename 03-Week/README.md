@@ -6,10 +6,11 @@
 
 ## Deliverables
 
-- **Friday, January 10**:
-    -   Quiz 2 - will cover *everything* we've learned on **Week 2**, **Week 2 Plus**, and **Week 3**.
+### Friday, January 10:
+- Quiz 2 - will cover *everything* we've learned on **Week 2**, **Week 2 Plus**, and **Week 3**.  
 
 
+  
     > Reminder: To submit a lab, just navigate to the repo containing that lab on your computer, then:
     >
     > -   `git add .` to add the files to the staging area
