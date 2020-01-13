@@ -29,8 +29,8 @@
 
 ## This Week's Assignments (due next week)
 
--   Lab 4.01 - Classification Model Comparison
--   Lab 4.02 - Classification Model Evaluation
+-   [Lab 4.01 - Classification Model Comparison](https://git.generalassemb.ly/DSI-US-10/4.01-lab-classification-model-comparison)
+-   [Lab 4.02 - Classification Model Evaluation](https://git.generalassemb.ly/DSI-US-10/4.02-lab-classification-model-evaluation)
 
 ### Lightning Talks This Week
 
