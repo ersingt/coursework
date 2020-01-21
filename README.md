@@ -9,6 +9,7 @@ A place for DC-specific course information and flex time activities/materials - 
 -   [Week 2](./02-Week) - Pandas, Data Analysis and Visualization, Statistics
 -   [Week 3](./03-Week) - Regression - Linear Regression, Train-Test Split and Cross Validation, Hypothesis Testing
 -   [Week 4](./04-Week) - Classification - Logistic Regression, k-Nearest Neighbors, Classification Metrics, Regularization, Hyperparameter Tuning and Pipelines
+-   [Week 5](./05-Week) - APIs and Web Scrapping, Natural Language Processing and AWS.
 
 ## Lesson Recordings
 
