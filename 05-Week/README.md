@@ -7,6 +7,7 @@
 -   Welcome to Week 5! This week covers miscellaneous topics - getting data (using APIs and/or Web Scrapping), Natural Language Processing and setting up your machines on AWS
 -   If you haven't already, **please sign up for [Amazon Web Services](https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=header_signup&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start)**. Furthermore, check out the [AWS Claim Flow](https://ga-students.slack.com/files/UGDPQJE90/FSEV32WHG/aws_claim_flow__2_.pdf) to get $50 credits for AWS.
 -   [Project 3: Web APIs & Classification](https://git.generalassemb.ly/DSI-US-10/project_3) is posted! **Make sure to start webscarping early so you'll have enough data for your project!**
+-   Please review **[Week 5 Preparation](https://git.generalassemb.ly/DSI-US-10/dsi-weekly/blob/master/05-web-data-week/prep-and-reading.md)** 
 
 ## Deliverables
 
