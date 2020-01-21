@@ -56,6 +56,7 @@ If you find any relevant or helpful resources, please share them in our [DC Reso
 
 -   [Gentle Introduction to the Bag-of-Words Model](https://machinelearningmastery.com/gentle-introduction-bag-words-model/)
 -   [Natural Language Processing YouTube Playlist](https://www.youtube.com/playlist?list=PLeL7qmseLZyYUOazaNkAzKxIZLH-xwtg4)
+-   [TF-IDF is about what matters](https://planspace.org/20150524-tfidf_is_about_what_matters/) - one of the best articles I've read on _term frequency - inverse document frequency_ (TF-IDF)
 -   More [Natural Language Processing (NLP) Resources](https://git.generalassemb.ly/AdiBro/Resources/blob/master/NLP.md)
 
 ### API and Web Scrapping Resources
