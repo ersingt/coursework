@@ -31,8 +31,8 @@ Assignments are submitted and feedback is provided on [Google Classroom](https:/
 
 ## This Week's Assignments (due next week)
 
--   [5.01 Scraping Lab](www.LinkToLab.com)
--   [5.02 NLP Lab](www.LinkToLab.com)
+-   [5.01 Scraping Lab](https://git.generalassemb.ly/DSI-US-10/5.01-lab-webscraping)
+-   [5.02 NLP Lab](https://git.generalassemb.ly/DSI-US-10/5.02-lab-nlp-naive-bayes)
 
 ### Lightning Talks This Week:
 
