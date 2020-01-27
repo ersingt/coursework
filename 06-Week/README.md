@@ -28,7 +28,7 @@
 
 ## This Week's Assignments (due next week)
 
--   [	6.01 Supervised Model Comparison](www.LinkToLab.com)
+-   [	6.01 Supervised Model Comparison](https://git.generalassemb.ly/DSI-US-10/6.01-lab-supervised-learning-models)
 
 
 ### Lightning Talks This Week:
