@@ -24,7 +24,7 @@
 
 ### **Friday, February 7, 2:00PM:**
 
--   Quiz 4 will cover _everything we learned on Week 6 and SQL from Week 7._ **Scala will not be on the quiz.**
+-   Quiz 4 will cover __everything we learned on Week 6 and Week 7 (focusing on SQL but you can expect Scala questions as well).__ 
 
 Please use [Google Classroom](https://classroom.google.com) to submit your assignments. **Don't forget to mark the assignment as 'Done' when submitting!**
 
