@@ -4,7 +4,7 @@
 
 ## Announcements
 
--   Welcome to Week 8! This week we'll cover Big Data & Data Engineering, specifically SQL, Scala and Spark.
+-   Welcome to Week 7! This week we'll cover Big Data & Data Engineering, specifically SQL, Scala and Spark.
 -   We're getting into the second half of the course. It's time to start thinking about your Capstone Project! [Capstone check-in number 1](https://git.generalassemb.ly/DSI-US-10/capstone#capstone-part-1-topic-proposals) will be this week (on Wednesday).
 -   In order to be up to date with the schedule of the assignments, we encourage you to write and submit **blog post number 3** this week.
 -   This week is Big Data Week and we'll be working with DataBricks. If you haven't done so yet, **please create a free DataBricks account** - [LINK](https://databricks.com/signup#signup/community).
