@@ -19,7 +19,7 @@
 
 ### **Due Wednesday, February 5, 04:00PM:**
 
--   Please submit your three capstone proposals via Google Classroom (Check In 1 assignment). Check out the [Capstone repo](hhttps://git.generalassemb.ly/DSI-US-10/capstone#capstone-part-1-topic-proposals), and specifically [Capstone, Part 1: Topic Proposals](https://git.generalassemb.ly/DSI-US-10/capstone/tree/master/part_01) for specific instructions. You will present your ideas on Wednesday after the global lecture.
+-   Please submit your three capstone proposals via Google Classroom (Check In 1 assignment). Check out the [Capstone repo](hhttps://git.generalassemb.ly/DSI-US-10/capstone#capstone-part-1-topic-proposals), and specifically [Capstone, Part 1: Topic Proposals](https://git.generalassemb.ly/DSI-US-10/capstone/tree/master/part_01) for specific instructions. You will present your ideas on **Wednesday after the PM global lecture**.
 -   Goal: Prepare a 3-5 minute lightning talk that covers three potential topics, including potential sources of data, goals, metrics and audience.
 
 ### **Friday, February 7, 2:00PM:**
