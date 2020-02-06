@@ -63,7 +63,6 @@ If you find any relevant or helpful resources, please share them in our [DC Reso
 
 Tis week, we'll be spending a lot of time using Spark on the Data Bricks platform. Spark combines a lot of the functionality we expect from Pandas and Scikit-learn, but it is built to handle big data. Spark is written in Scala, so you may be interested in learning the basics of Scala before diving in to Spark. Note: Becoming familiar with a second programming language is a great skill and a good thing to put on your resume!
 
--   [Scala Basics for Python Developers](https://bugra.github.io/work/notes/2014-10-18/scala-basics-for-python-developers/)
 -   The [Official Scala Documentation](https://docs.scala-lang.org/tour/tour-of-scala.html) has a great tour of the language with miniature prompts to run code. This tour begins with a high-level overview of how Scala deals with such things as functions, methods, and classes. You may find it interesting reading, but in my opinion this information is not exactly where I want to begin when learning a new language.
 -   This [Scala tutorial](https://www.tutorialspoint.com/scala/index.htm) also features prompts to run Scala code, but it begins with basic syntax, data types, and variables. You should ignore the information on how to install Scala, and don't worry about moving past the section on collections.
 
