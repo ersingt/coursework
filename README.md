@@ -12,6 +12,7 @@ A place for DC-specific course information and flex time activities/materials - 
 -   [Week 5](./05-Week) - APIs and Web Scrapping, Natural Language Processing and AWS.
 -   [Week 6](./06-Week ) - Advanced Supervised Learning - Tree Based Methods (Decision Trees and Random Forests), Bootstrapping and Bagging, Boosting, Support Vector Machines, Generalized Linear Models, Gradient Descent.
 -   [Week 7](./07-Week) - Data Engineering and Big Data - SQL, Scala, Spark
+-   [Week 8](./08-Week) - Unsupervised Learning - Clustering and Dimensionality Reduction (mostly Principal Component Analysis)
 
 ## Lesson Recordings
 
