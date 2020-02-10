@@ -34,7 +34,6 @@ Please use [Google Classroom](https://classroom.google.com) to submit your assig
 |   8  | CountVectorizer and TfidfVectorizer          | Beth Hamilton     |
 |   8  | Classification and Regression Decision Trees | Michael Daugherty |
 |   8  | Ensemble Models                              | Kelly Slatery     |
-|   8  | Deep Learning - Bayesian Deep Networks       | Mike Blow         |
 
 ## Resources
 
