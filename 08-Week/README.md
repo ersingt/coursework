@@ -16,11 +16,11 @@
 
 Please use [Google Classroom](https://classroom.google.com) to submit your assignments. **Don't forget to mark the assignment as 'Done' when submitting!**
 
-    > Reminder: To submit a lab, just navigate to the repo containing that lab on your computer, then:
-    >
-    > -   `git add .` to add the files to the staging area
-    > -   `git commit -m 'submitting lab X'` to commit the files
-    > -   `git push` to push your files to your submission folder/repo
+     Reminder: To submit a lab, just navigate to the repo containing that lab on your computer, then:
+    
+     -   `git add .` to add the files to the staging area
+     -   `git commit -m 'submitting lab X'` to commit the files
+     -   `git push` to push your files to your submission folder/repo
 
 ## This Week's Assignments (due next week)
 
