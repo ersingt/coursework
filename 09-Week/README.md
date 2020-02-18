@@ -23,7 +23,7 @@
 
 ### **Due Friday, February 21, by 10:15AM**:
 
--   Client Project Deliverables - please check out the [project requirements](https://git.generalassemb.ly/DSI-US-9/project-client_project/blob/master/README.md#requirements), as well as the [problem statements](https://git.generalassemb.ly/DSI-US-9/project-client_project#problem-summaries) for project specific desired deliverables.
+-   Client Project Deliverables - please check out the [project requirements](https://git.generalassemb.ly/DSI-US-10/project-client_project/blob/master/README.md#requirements), as well as the [problem statements](https://git.generalassemb.ly/DSI-US-10/project-client_project#problem-summaries) for project specific desired deliverables.
 
 Please use [Google Classroom](https://classroom.google.com) to submit your assignments. **Don't forget to mark the assignment as 'Done' when submitting!**
 
