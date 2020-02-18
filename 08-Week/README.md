@@ -17,15 +17,15 @@
 Please use [Google Classroom](https://classroom.google.com) to submit your assignments. **Don't forget to mark the assignment as 'Done' when submitting!**
 
      Reminder: To submit a lab, just navigate to the repo containing that lab on your computer, then:
-    
+
      -   `git add .` to add the files to the staging area
      -   `git commit -m 'submitting lab X'` to commit the files
      -   `git push` to push your files to your submission folder/repo
 
 ## This Week's Assignments (due next week)
 
--   [8.01 Clustering Lab](www.LinkToLab.com)
--   [8.02 PCA Lab](www.LinkToLab.com)
+-   [8.01 Clustering Lab](https://git.generalassemb.ly/DSI-US-10/8.01-lab-kmeans-isotopes)
+-   [8.02 PCA Lab](https://git.generalassemb.ly/DSI-US-10/8.02-lab-principal-components-analysis)
 
 ### Lightning Talks This Week:
 
