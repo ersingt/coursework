@@ -45,7 +45,7 @@ If you find any relevant or helpful resources, please share them in our [DC Reso
 -   [Think Bayes](http://greenteapress.com/wp/think-bayes/) - this is a great book on Bayesian statistics. Free PDF can be downloaded as well. Specifically for this week, check out Sections 0.2 and 1.1-1.5.
 -   [Visual Explanation of Conditional Probability](http://setosa.io/conditional/)
 -   As a good resource, check out [**Bayesian Methods for Hackers**](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/). It's a notebook-style online book that efficiently teaches Bayesian statistics through some pretty compelling real-world applications. It does a great job teaching Bayesian statistics with minimal mathematical background. Highly recommended. - Tim Book
-  -   The GitHub repo for the book can be found [HERE](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers). There's also a [NBViewer version of the book](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb).
+    -   The GitHub repo for the book can be found [HERE](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers). There's also a [NBViewer version of the book](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb).
 
 ## Weekly Calendar
 
