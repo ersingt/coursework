@@ -15,6 +15,7 @@ A place for DC-specific course information and flex time activities/materials - 
 -   [Week 8](./08-Week) - Unsupervised Learning - Clustering and Dimensionality Reduction (mostly Principal Component Analysis)
 -   [Week 9](./09-Week) - Correlated Data and Time Series Analysis
 -   [Week 10](./10-Week) - Bayesian Statistics
+-   [Week 11](./11-Week) - Deep Learning and Neural Network
 
 ## Lesson Recordings
 
