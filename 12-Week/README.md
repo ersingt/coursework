@@ -16,7 +16,7 @@
 ### **Due Monday, March 9, by EOD:**
 
 -   [11.01 Conceptual Neural Networks Lab](https://git.generalassemb.ly/DSI-US-9/11.01-lab-neural-network-conceptual)
-    -   [11.02 Applied Neural Networks Lab](https://git.generalassemb.ly/DSI-US-9/11.02-lab-neural-network-applied)
+-   [11.02 Applied Neural Networks Lab](https://git.generalassemb.ly/DSI-US-9/11.02-lab-neural-network-applied)
 
 ### **Due Tuesday, March 10, by EOD:**
 
