@@ -16,6 +16,7 @@ A place for DC-specific course information and flex time activities/materials - 
 -   [Week 9](./09-Week) - Correlated Data and Time Series Analysis
 -   [Week 10](./10-Week) - Bayesian Statistics
 -   [Week 11](./11-Week) - Deep Learning and Neural Network
+-   [Week 12](./12-Week) - Capstone work and Flex Time
 
 ## Lesson Recordings
 
