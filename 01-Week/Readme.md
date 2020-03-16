@@ -1,18 +1,18 @@
-# DSI-US-10-DC Week 1 (December 9 - December 13, 2019)
+# DSI-US-11-DC Week 1 (March 16, 2020 - March 20, 2020)
 
-[Week 1 - Getting Started: Python for Data Science](https://git.generalassemb.ly/DSI-US-10/course-info#week-1---getting-started-python-for-data-science-december-9---december-13)
+Week 1 - Getting Started: Python for Data Science
 
 ## Announcements
 
--   Welcome to DSI 10 and to the DC campus! We're happy to have you here :)
--   We would like to schedule a 1-on-1 with each of you during the first two weeks, to get to know you better (and let you get to know us better as well). Please reach to us (Adi and Josh) and let's schedule 1-on-1s!
--   On Friday we will have Quiz 1. Check out the Assignments section.
+-   Welcome to DSI 11 and to the DC campus! We're happy to have you here :)
+-   We would like to schedule a 1-on-1 with each of you during the first two weeks, to get to know you better (and let you get to know us better as well). Please reach to us (Jeff and Chuck) and let's schedule 1-on-1s!
+-   On Friday we will have Quiz 1. Check out the Assignments section. Once it is posted
 
 ## Deliverables
 
--   **Due Monday, September 16, by EOD:**
-    -   [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-10/1.01-lab-pokemon)
-    -   [1.02 Loot Boxes Lab](https://git.generalassemb.ly/DSI-US-10/1.02-lab-loot-boxes)
+-   **Due Monday, March 23, by EOD:**
+    -   [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-11/1.01-lab-pokemon)
+    -   [1.02 Loot Boxes Lab](https://git.generalassemb.ly/DSI-US-11/1.02-lab-loot-boxes)
 
 -   Please submit your work (labs and projects) through [Google Classroom](https://classroom.google.com/). We will go over Google Classroom in class! (see what I did there?)
 
@@ -23,16 +23,16 @@
     > -   `git push` to push your files to your submission folder/repo
 
 ## This Week's Assignments
-### **Friday, December 13, 2:00PM**:
+### **Friday, March 20, 2:00PM**:
 -   Our first quiz! Quiz 1 will include all of the material from this week. Quiz review to come!
 
-### **Due Monday, December 16, by EOD**
-  -   [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-10/1.01-lab-pokemon)
-  -   [1.02 Loot Boxes Lab](https://git.generalassemb.ly/DSI-US-10/1.02-lab-loot-boxes)
+### **Due Monday, December 23, by EOD**
+  -   [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-11/1.01-lab-pokemon)
+  -   [1.02 Loot Boxes Lab](https://git.generalassemb.ly/DSI-US-11/1.02-lab-loot-boxes)
 
 ## Resources
 
--   [Resources Repo](https://git.generalassemb.ly/AdiBro/Resources)
+-   [Resources Repo] TO BE ADDED
 -   If you find any relevant or helpful resources, please share them in our [DC Resources Channel](https://ga-students.slack.com/archives/CRFA90T5M)!
 
 ## General Resources
@@ -70,4 +70,4 @@ Here are some great visual resources:
 -   [More Development Enivronment Resources](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Enviroment.md)
 
 ## Weekly Calendar
-[Google Calendar for DC Campus](https://calendar.google.com/calendar?cid=Z2VuZXJhbGFzc2VtYi5seV9jbGFzc3Jvb21jNjIzY2NhNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) - this calendar updated as we progress in the course. Please subscribe to this calendar so you're up-to-date with lessons, activities, events and more!
+[Google Calendar for DC Campus](To be updated) - this calendar updated as we progress in the course. Please subscribe to this calendar so you're up-to-date with lessons, activities, events and more!
