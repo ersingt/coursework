@@ -2,7 +2,7 @@ Welcome to the first day of the course! First thing we'll do will be to make sur
 
 
 ## Installfest
-Your "Installfest" resources can be found [here](https://git.generalassemb.ly/DSI-US-10/0.00-zero-day).
+Your "Installfest" resources can be found [here](https://git.generalassemb.ly/DSI-US-11/0.00-zero-day).
 
  - [Mac/Linux install guide](https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Student-Install-Guide)
  - [Windows install guide](https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Student-Install-Guide---Windows)
