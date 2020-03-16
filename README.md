@@ -1,4 +1,4 @@
-# DC Flex 11 README
+# DC DSI Flex 11 README
 
 A place for DC-specific course information and flex time activities/materials - announcements, assignments, local lessons will be pushed here, info on quizzes, lightning talks, and more.
 
@@ -21,7 +21,7 @@ A place for DC-specific course information and flex time activities/materials - 
 ## Lesson Recordings
 
 -   [Global Lesson Recordings](https://git.generalassemb.ly/DSI-US-11/course-info/blob/master/recordings.md) - this is the link to the **Global Lectures** recordings.
--   [Local Lesson Recordings](YouTube or other link to add) - this is the link to the **Local Lessons** recordings.
+-   [Local Lesson Recordings](TO BE ADDED) - this is the link to the **Local Lessons** recordings.
 
 ## Assignments
 
@@ -31,8 +31,8 @@ A place for DC-specific course information and flex time activities/materials - 
 
 ## Resources
 
--   [This Repository](TO BE ADDED) contains resources and cheatsheets that will be helpful for the course (and after it!).
--   If you find any relevant or helpful resources, please share them in our [DC Resources Channel](https://ga-students.slack.com/archives/CRFA90T5M)!
+-   [This Repository](https://git.generalassemb.ly/AdiBro/Resources) contains resources and cheatsheets that will be helpful for the course (and after it!).
+-   If you find any relevant or helpful resources, please share them in our [DC Resources Channel](https://ga-students.slack.com/archives/C0101AF3HV2)!
 
 ## Office Hours
 
@@ -41,5 +41,5 @@ A place for DC-specific course information and flex time activities/materials - 
 
 ## Weekly Calendar
 
--   [Google Calendar for DC Campus](TO BE ADDED) - this calendar will be updated as we progress. Feel free to subscribe to this calendar so you're up-to-date with lessons, activities, etc.
+-   [Google Calendar for DC Campus](https://classroom.google.com/u/7/calendar/this-week/course/all) - this calendar will be updated as we progress. Feel free to subscribe to this calendar so you're up-to-date with lessons, activities, etc.
 -   You may also find the Global Course calendar [here](https://git.generalassemb.ly/DSI-US-11/course-info).
