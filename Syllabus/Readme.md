@@ -50,7 +50,8 @@ We are building a global community of lifelong learners who are excited about us
 
 ## Slack
 
-You have been invited to the Slack workspaces:
+You have been invited to two Slack workspaces:
 
-- [Immersive Students](https://ga-students.slack.com) - All of DSI Hybrid
+- [Immersive Students](https://ga-students.slack.com) - Primary workspace
+- [DSI DC](https://DSI-DC.slack.com) - DSI-DC 
 
