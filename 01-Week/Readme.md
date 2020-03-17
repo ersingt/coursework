@@ -70,4 +70,4 @@ Here are some great visual resources:
 -   [More Development Enivronment Resources](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Enviroment.md)
 
 ## Weekly Calendar
-[Google Calendar for DC Campus](To be updated) - this calendar updated as we progress in the course. Please subscribe to this calendar so you're up-to-date with lessons, activities, events and more!
+[Google Calendar for DC Campus](https://classroom.google.com/u/7/calendar/this-week/course/all) - this calendar updated as we progress in the course. Please subscribe to this calendar so you're up-to-date with lessons, activities, events and more!
