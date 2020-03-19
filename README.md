@@ -21,7 +21,7 @@ A place for DC-specific course information and flex time activities/materials - 
 ## Lesson Recordings
 
 -   [Global Lesson Recordings](https://git.generalassemb.ly/DSI-US-11/course-info/blob/master/recordings.md) - this is the link to the **Global Lectures** recordings.
--   [Local Lesson Recordings](TO BE ADDED) - this is the link to the **Local Lessons** recordings.
+-   [Local Lesson Recordings](./recordings.md) - this is the link to the **Local Lessons** recordings.
 
 ## Assignments
 
