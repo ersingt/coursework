@@ -32,7 +32,7 @@ Week 1 - Getting Started: Python for Data Science
 
 ## Resources
 
--   [Resources Repo] TO BE ADDED
+-   [Resources Repo](https://git.generalassemb.ly/AdiBro/Resources)
 -   If you find any relevant or helpful resources, please share them in our [DC Resources Channel](https://ga-students.slack.com/archives/CRFA90T5M)!
 
 ## General Resources
