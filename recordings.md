@@ -12,5 +12,7 @@
 
 
 ## Week 2
-- [Mon](https://generalassembly.zoom.us/rec/share/zulUHrGq3U9JBY2TsVvbcZ94TsPIaaa80SMa-fpYykjkqFvRo9cU_3uHzG3GtSHI?startTime=1584978248000)
+- [Mon Noon](https://generalassembly.zoom.us/rec/share/zulUHrGq3U9JBY2TsVvbcZ94TsPIaaa80SMa-fpYykjkqFvRo9cU_3uHzG3GtSHI?startTime=1584978248000)
 - [Mon Later](https://generalassembly.zoom.us/rec/share/2NdrdLL9p1hLfaPy12TYYJADHZnbT6a803VLqPQPxUoQcNEVNOPCCsR79ayYdTmu?startTime=1584992601000)
+- [Tues Noon](https://generalassembly.zoom.us/rec/share/u8FcD-3q7W1Jc7eK5BicZowALJj9T6a80XUa-aZZmB6W6AwauWpQXdHLz7IP3MHJ?startTime=1585065383000)
+- [Tues Later](https://generalassembly.zoom.us/rec/share/9MdZd-vBp2JOTqvurx-Bdap6RqXEeaa81XdMqaAPyxpgjvpJgORhhjzU6uUALcGf?startTime=1585080215000)
