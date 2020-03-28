@@ -20,3 +20,5 @@
 - [Wed Later](https://generalassembly.zoom.us/rec/share/3sNxKpWrpzNOT43x6GLBWbMlIqHGeaa81ncW_foPmB5WN3Pg9zfWbfwbq8TZbMvo?startTime=1585165831000)
 - [Thurs Noon](https://generalassembly.zoom.us/rec/share/-sktLJTW2k1IfbfI6VPGB4U9Xd2ieaa8hCBIr6dbn0mRaO9k698YMckG0yApZQgM?startTime=1585238244000)
 - Thurs Later - breakout rooms, no video
+- [Fri Noon](https://generalassembly.zoom.us/rec/share/_-AyBOC33ENLTYXE2V_iXYV-PsP9aaa80yUd-fQLyR5r965m8qcLlf2lkZ6eF0Qp?startTime=1585325802000)
+- [Fri Later](https://generalassembly.zoom.us/rec/share/3fR0D5z_sSBOYJXcwx_yBqwwRKjcT6a81nMf-fRcnUf82Sr0MpQqvqefeY4NPhXO?startTime=1585331934000)
