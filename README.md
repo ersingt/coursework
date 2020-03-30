@@ -7,7 +7,7 @@ A place for DC-specific course information and flex time activities/materials - 
 -   [Syllabus](./Syllabus) - Course information and policies
 -   [Week 1](./01-Week) - Git, Python for Data Science, Statistics, Probability
 -   [Week 2](./02-Week) - Pandas, Data Analysis and Visualization, Statistics
--   Week 3 - Regression - Linear Regression, Train-Test Split and Cross Validation, Hypothesis Testing
+-   [Week 3](./03-Week) - Regression - Linear Regression, Train-Test Split and Cross Validation, Hypothesis Testing
 -   Week 4 - Classification - Logistic Regression, k-Nearest Neighbors, Classification Metrics, Regularization, Hyperparameter Tuning and Pipelines
 -   Week 5 - APIs and Web Scrapping, Natural Language Processing and AWS.
 -   Week 6 - Advanced Supervised Learning - Tree Based Methods (Decision Trees and Random Forests), Bootstrapping and Bagging, Boosting, Support Vector Machines, Generalized Linear Models, Gradient Descent.
