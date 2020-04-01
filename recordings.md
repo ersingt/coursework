@@ -26,3 +26,7 @@
 ## Week 3
 - [Mon Noon](https://generalassembly.zoom.us/rec/share/teZqBr7M3DlIYJ3pyH6EWYUeNKS5eaa81CMbq_UKzWTvg-p8lpKY6gDpgRbcLaY?startTime=1585584237000)
 - [Mon Later](https://generalassembly.zoom.us/rec/share/xuZbKbr5z0ZIGLPr413EYI4KHZ3jaaa82iEX-aIOnr61XPMCMmvaMNQo5uuwcFA?startTime=1585599361000)
+- [Tues Noon](https://generalassembly.zoom.us/rec/share/u8lIDqvy7mROf6vK4VnUA6MbOa7Maaa81CdL_PFcyxsDBKPaIQjAi_eR5WKcVwyq?startTime=1585670026000)
+- [Tues Later](https://generalassembly.zoom.us/rec/share/1fUubI3uxjpOUNLi8mzVdvMIMMPnX6a81yEdrPUJnUZkeqJH8_m2aTCZPkcq0Q4c?startTime=1585682992000)
+- [Wed Noon](https://generalassembly.zoom.us/rec/share/1_FSBOjO7WdOTq_sxn_Qe64_T6HXaaa81ilL_KIFnh3-Z3rRfjbGnYKRtCa6XFY1?startTime=1585756628000)
+- [Wed Later]()
