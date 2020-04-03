@@ -30,5 +30,5 @@
 - [Tues Later](https://generalassembly.zoom.us/rec/share/1fUubI3uxjpOUNLi8mzVdvMIMMPnX6a81yEdrPUJnUZkeqJH8_m2aTCZPkcq0Q4c?startTime=1585682992000)
 - [Wed Noon](https://generalassembly.zoom.us/rec/share/1_FSBOjO7WdOTq_sxn_Qe64_T6HXaaa81ilL_KIFnh3-Z3rRfjbGnYKRtCa6XFY1?startTime=1585756628000)
 - [Wed Later](https://generalassembly.zoom.us/rec/share/uPRxde7vp0FOHoXdtkv7BYAiFZ_Uaaa82ihM8vYIxErmZJuNQ0qVJAQ42KirHtJL?startTime=1585771158000)
-[Thurs Noon](https://generalassembly.zoom.us/rec/share/ztBPNo7a-0ZLZ7fcxHiGX_IGMK7HT6a80yRK__YMnk6fcdlBVTfTUAghnAuHe0AD?startTime=1585843848000)
+- [Thurs Noon](https://generalassembly.zoom.us/rec/share/ztBPNo7a-0ZLZ7fcxHiGX_IGMK7HT6a80yRK__YMnk6fcdlBVTfTUAghnAuHe0AD?startTime=1585843848000)
 - [Thurs Later](https://generalassembly.zoom.us/rec/share/vvBzFqzJrnxJbtLv-U-CdqcGRYv8T6a81XcYqadZnhp7XsSyUruHacgcQo3MMnWB?startTime=1585850445000)
