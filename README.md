@@ -8,7 +8,7 @@ A place for DC-specific course information and flex time activities/materials - 
 -   [Week 1](./01-Week) - Git, Python for Data Science, Statistics, Probability
 -   [Week 2](./02-Week) - Pandas, Data Analysis and Visualization, Statistics
 -   [Week 3](./03-Week) - Regression - Linear Regression, Train-Test Split and Cross Validation, Hypothesis Testing
--   Week 4 - Classification - Logistic Regression, k-Nearest Neighbors, Classification Metrics, Regularization, Hyperparameter Tuning and Pipelines
+-   [Week 4](./04-Week) - Classification - Logistic Regression, k-Nearest Neighbors, Classification Metrics, Regularization, Hyperparameter Tuning and Pipelines
 -   Week 5 - APIs and Web Scrapping, Natural Language Processing and AWS.
 -   Week 6 - Advanced Supervised Learning - Tree Based Methods (Decision Trees and Random Forests), Bootstrapping and Bagging, Boosting, Support Vector Machines, Generalized Linear Models, Gradient Descent.
 -   Week 7 - Data Engineering and Big Data - SQL, Scala, Spark
@@ -42,4 +42,4 @@ A place for DC-specific course information and flex time activities/materials - 
 ## Weekly Calendar
 
 -   [Google Calendar for DC Campus](https://classroom.google.com/u/7/calendar/this-week/course/all) - this calendar will be updated as we progress. Feel free to subscribe to this calendar so you're up-to-date with lessons, activities, etc.
--   You may also find the Global Course calendar [here](https://git.generalassemb.ly/DSI-US-11/course-info).
+-   You can find the Global Course calendar [here](https://git.generalassemb.ly/DSI-US-11/course-info).
