@@ -39,4 +39,4 @@
 - [Tues Noon](https://generalassembly.zoom.us/rec/share/u8lIDqvy7mROf6vK4VnUA6MbOa7Maaa81CdL_PFcyxsDBKPaIQjAi_eR5WKcVwyq?startTime=1585670026000)
 - [Tues Later](https://generalassembly.zoom.us/rec/share/uOlJde3o0EBLS6OSz0vDUbAIWaD6aaa8gCAY-fEKnR6eM2rtV81MhvRm0qcnkfB2?startTime=1586290043000)
 - [Wed Noon](https://generalassembly.zoom.us/rec/share/3dAuBrrS7TJLfqeS4h77V6M-T4jfT6a8hCdI-aAJzhoKhfHTZwlQ6QenHsatq8bo?startTime=1586361728000)
-
+- [Fri Morning](https://generalassembly.zoom.us/rec/share/5vNyLIDRrUVOS8_vxV_UdoQjQbvcT6a81yIWr_cPngV_AA_-qMJJQq_2lGjH29A?startTime=1586527185000)
