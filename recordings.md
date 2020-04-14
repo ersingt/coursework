@@ -36,3 +36,7 @@
 ## Week 4
 - [Mon Noon](https://generalassembly.zoom.us/rec/share/xcZ0ALHK-EZIHIHJ8E7dRbx_J7_beaa803cZ_PVbyh4mNk8Eu8bWWq9vtJn3fdgQ?startTime=1586189218000)
 - [Mon Later](https://generalassembly.zoom.us/rec/share/55UtFpPd32RIE53E51CCVr4KDNnYeaa81CcfqfEKmkjAsASzstqOe6h0n-sc8Kzc?startTime=1586203026000)
+- [Tues Noon](https://generalassembly.zoom.us/rec/share/u8lIDqvy7mROf6vK4VnUA6MbOa7Maaa81CdL_PFcyxsDBKPaIQjAi_eR5WKcVwyq?startTime=1585670026000)
+- [Tues Later](https://generalassembly.zoom.us/rec/share/uOlJde3o0EBLS6OSz0vDUbAIWaD6aaa8gCAY-fEKnR6eM2rtV81MhvRm0qcnkfB2?startTime=1586290043000)
+
+
