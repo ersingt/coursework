@@ -47,3 +47,7 @@
 - [Tues Later](https://generalassembly.zoom.us/rec/share/35RJPqHttXhOWqfc6W_OeYp7B6b7eaa81HMYq_VfmBx-yphoKnZjwv5UbBldqJHK?startTime=1586973539000)
 - [Wed Noon](https://generalassembly.zoom.us/rec/share/489xcLvq8mZOcrfKxR3adL4xB7jLeaa8hCIY-PEOyhlINFvcWpnIB2Qj50dP_6RX?startTime=1587053599000)
 - [Wed Later](https://generalassembly.zoom.us/rec/share/wJZrL7bh0UROEpGX12flBKswN5_uX6a8gCUW__tcyEpb5EyO_mDzJ1cWi1mJ2BMB?startTime=1587059937000)
+
+## Week 6
+- [Mon Noon](https://generalassembly.zoom.us/rec/share/6e9NNaz35k5LGqPU8XPFa5YTO9v4eaa8gSVLrPdYyUug0ZezHX85oh9roCLeNDTA?startTime=1587398666000)
+
