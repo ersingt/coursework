@@ -1,4 +1,4 @@
-# Hackathon Project 4
+# Hackathon Project 4 🚀
 
 Pick a tabular dataset and make a predictive model with it. 
 
@@ -26,4 +26,4 @@ There are many curated collections of interesting datasets online. Here are a fe
 
 Do not duplicate someone else's analysis. :)
 
-## Have fun!
+## Have fun! 🎉
