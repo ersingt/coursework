@@ -26,8 +26,8 @@ There are many curated collections of interesting datasets online. Here are a fe
 
 ## Check-ins
 
-Slack us the link to your dataset or dataset source by 11:30am so we can okay it.
-Slack us your problem statement by 11:45am so we can okay it. 
+- Slack us the link to your dataset or dataset source by 11:30am so we can okay it.
+- Slack us your problem statement by 11:45am so we can okay it. 
 
 Reminder: do not duplicate someone else's work.
 
