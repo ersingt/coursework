@@ -50,4 +50,7 @@
 
 ## Week 6
 - [Mon Noon](https://generalassembly.zoom.us/rec/share/6e9NNaz35k5LGqPU8XPFa5YTO9v4eaa8gSVLrPdYyUug0ZezHX85oh9roCLeNDTA?startTime=1587398666000)
-
+- [Tues Noon](https://generalassembly.zoom.us/rec/share/tYtHfpHU9GpIeZHD4RrzYoR4IbjVX6a80yBMqPFYyxz1jRzxe_ApbcnITjOFA-XV?startTime=1587485381000)
+- [Wed Noon](https://generalassembly.zoom.us/rec/share/zs1_foD_rDtJYdbysXPVQ54xQ7r5T6a8hyQfqPQPnhmZU8eY7xCV_bUApZmQZChh?startTime=1587570680000)
+- [Fri Morning](https://generalassembly.zoom.us/rec/share/4PBrAo7z6GlOW5XW8W2FWIorEZumeaa8g3MarPZYzU3dXr1nlWcx5B72bfO3qVIr?startTime=1587736633000)
+- [Fri Later](https://generalassembly.zoom.us/rec/share/vtAqdfapyVtIQYHBzUOYAJZxOLTjT6a81XNK_foKxB6tQhdjsJ_v0igYl1ENkVh-?startTime=1587751125000)
