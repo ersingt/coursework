@@ -5,7 +5,7 @@ Pick a tabular dataset and make a predictive model with it.
 ## Timeline
 
 - By 11:30am, Slack us what dataset you've chosen for us to okay.
-- By 4:30pm, Slack us a link to your project repository. Make frequent commits throughout the day.
+- By 4:30pm, Make your final push to your GitHub submission repo. Make frequent commits throughout the day.
 - At 4:30pm, we'll do lightning talks where you'll tell the rest of the class what you found. No slides necessary; you can walk us through your Jupyter notebook if you prefer.
 
 ## Guidelines
