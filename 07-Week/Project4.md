@@ -14,7 +14,9 @@ We know this is a short time for a project. We're not expecting anything as poli
 
 ## Datasets
 
-You can pick any dataset you're interested in. Slack us the link by 11:30am so we can okay it and Slack us your problem statement by 11:45am so we can okay it. 
+You can pick any dataset you're interested in. 
+
+Please do not pick a dataset that isn't extremely common in data science examples (such as Titanic, Iris, etc.).
 
 There are many curated collections of interesting datasets online. Here are a few links to get you started:
 
@@ -22,9 +24,11 @@ There are many curated collections of interesting datasets online. Here are a fe
 - [/r/datasets](https://www.reddit.com/r/datasets/)
 - [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 
-## Notes
+## Check-ins
 
-- Please do not pick a dataset that isn't extremely common in data science examples (such as Titanic, Iris, etc.).
-- Do not duplicate someone else's analysis.
+- Slack us the link to your dataset or dataset source by 11:30am so we can okay it.
+- Slack us your problem statement by 11:45am so we can okay it. 
+
+Reminder: do not duplicate someone else's work.
 
 ## Have fun! 🎉
