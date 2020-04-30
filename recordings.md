@@ -58,3 +58,9 @@
 ## Week 7
 - [Mon Later, Hackathon Presentations](https://generalassembly.zoom.us/rec/share/vpN8BrbI011OAZ2V-Fv4eoEKLojCX6a81iRNqPcNzRuzCKuKPh_wu_fmjNN4ejmp?startTime=1588020361000)
 - [Tues Noon](https://generalassembly.zoom.us/rec/share/vfJ3cvL5zmxOaZX82BnBVvYKJK79T6a81HVM_vYFmk35gL8r5oUfprh-cXZGklSP?startTime=1588088932000)
+
+__SQL Lessons led by Mahdi__
+
+- [SQL Basics](https://generalassembly.zoom.us/rec/share/69xYMurL1DNJZZHn60rABaQgO7_aT6a81XUc-foNzU1nj2CeOjw2C7tpFl8h7axr)
+- [SQL Intermediate](https://generalassembly.zoom.us/rec/share/pu5-AZb80DJOH7f_2nnnQb8lQpq1T6a813dKrvEFzx0NODlpWfxNDPppn7RgyHuP)
+- [SQL Advanced](https://generalassembly.zoom.us/rec/share/yJMoH5jt9WhJZaP1zGaEXr47RtT3aaa80CgdrqcKyxxuqDPfhqjHEBNROLkhZrEy)
