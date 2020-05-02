@@ -64,5 +64,8 @@ __SQL Lessons led by Mahdi__
 - [SQL Basics](https://generalassembly.zoom.us/rec/share/69xYMurL1DNJZZHn60rABaQgO7_aT6a81XUc-foNzU1nj2CeOjw2C7tpFl8h7axr)
 - [SQL Intermediate](https://generalassembly.zoom.us/rec/share/pu5-AZb80DJOH7f_2nnnQb8lQpq1T6a813dKrvEFzx0NODlpWfxNDPppn7RgyHuP)
 - [SQL Advanced](https://generalassembly.zoom.us/rec/share/yJMoH5jt9WhJZaP1zGaEXr47RtT3aaa80CgdrqcKyxxuqDPfhqjHEBNROLkhZrEy)
+
+---
+
 - [Thurs Later](https://generalassembly.zoom.us/rec/share/4ex6Jrzv621IGYnN0XzeapMQG5_CX6a81iZI-Pdcyhxnb4gPj2seUaaYiDZNa_aZ?startTime=1588269338000)
 - [Fri Noon](https://generalassembly.zoom.us/rec/share/5NJQMbqh23pIE5Hv0xzwQf9wE57caaa80CUd-KYFzUv-KlV9n66ZE2ACKDekyxBM?startTime=1588347660000)
