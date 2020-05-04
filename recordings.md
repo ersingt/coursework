@@ -69,3 +69,6 @@ __SQL Lessons led by Mahdi__
 
 - [Thurs Later](https://generalassembly.zoom.us/rec/share/4ex6Jrzv621IGYnN0XzeapMQG5_CX6a81iZI-Pdcyhxnb4gPj2seUaaYiDZNa_aZ?startTime=1588269338000)
 - [Fri Noon](https://generalassembly.zoom.us/rec/share/5NJQMbqh23pIE5Hv0xzwQf9wE57caaa80CUd-KYFzUv-KlV9n66ZE2ACKDekyxBM?startTime=1588347660000)
+
+## Week 8
+- [Mon Noon](https://generalassembly.zoom.us/rec/share/os17drTx819IGdb1wWrAWekORYD6X6a81CRLqaBcyR4NV5Vhhy2qrbmBHJbP4dQj?startTime=1588607685000)
