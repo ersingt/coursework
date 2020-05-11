@@ -12,8 +12,8 @@ A place for DC-specific course information and flex time activities/materials - 
 -   [Week 5](./05-Week) - APIs and Web Scrapping, Natural Language Processing and AWS.
 -   [Week 6](./06-Week) - Advanced Supervised Learning - Tree Based Methods (Decision Trees and Random Forests), Bootstrapping and Bagging, Boosting, Support Vector Machines, Generalized Linear Models, Gradient Descent.
 -   [Week 7](./07-Week) - Data Engineering and Big Data - SQL, Scala, Spark
--   Week 8 - Unsupervised Learning - Clustering and Dimensionality Reduction (mostly Principal Component Analysis)
--   Week 9 - Correlated Data and Time Series Analysis
+-   [Week 8](./08-Week) - Unsupervised Learning - Clustering & Dimensionality Reduction, Missing Data, Recommender Systems 
+-   Week 9 - Time Series Analysis, Flask
 -   Week 10 - Bayesian Statistics
 -   Week 11 - Deep Learning and Neural Network
 -   Week 12 - Capstone work and Flex Time
@@ -39,7 +39,8 @@ A place for DC-specific course information and flex time activities/materials - 
 - Book office hours with **Global Instructors and remote TAs [here](https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours).**
 - Contact **Jeff Hale** in person or on Slack to book a scheduled one-on-one with your instructional team. You can also contact **Chuck Dye**, our Instructor Associate for help in-person or on Slack.
 
-## Weekly Calendar
+## Weekly Calendars
 
--   [Google Calendar for DC Campus](https://classroom.google.com/u/7/calendar/this-week/course/all) - this calendar will be updated as we progress. Feel free to subscribe to this calendar so you're up-to-date with lessons, activities, etc.
--   You can find the Global Course calendar [here](https://git.generalassemb.ly/DSI-US-11/course-info).
+- [Google Calendar for DC](https://classroom.google.com/u/7/calendar/this-week/course/all) - this calendar will be updated as we progress. I suggest you subscribe to this calendar so you're up-to-date with lessons.
+- [Google Sheet with more detailed schedule for DC](https://docs.google.com/spreadsheets/d/1okWS4vVbGV7Rg-uFMZBEbWe_Q9oQR1Vf9jv1maaF8Kc/edit?usp=sharing) - this calendar will be updated as we progress. It includes planned lesson topics. Schedule subject to change. 
+- You can find the global course calendar [here](https://git.generalassemb.ly/DSI-US-11/course-info).

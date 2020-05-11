@@ -54,3 +54,21 @@
 - [Wed Noon](https://generalassembly.zoom.us/rec/share/zs1_foD_rDtJYdbysXPVQ54xQ7r5T6a8hyQfqPQPnhmZU8eY7xCV_bUApZmQZChh?startTime=1587570680000)
 - [Fri Morning](https://generalassembly.zoom.us/rec/share/4PBrAo7z6GlOW5XW8W2FWIorEZumeaa8g3MarPZYzU3dXr1nlWcx5B72bfO3qVIr?startTime=1587736633000)
 - [Fri Later](https://generalassembly.zoom.us/rec/share/vtAqdfapyVtIQYHBzUOYAJZxOLTjT6a81XNK_foKxB6tQhdjsJ_v0igYl1ENkVh-?startTime=1587751125000)
+
+## Week 7
+- [Mon Later, Hackathon Presentations](https://generalassembly.zoom.us/rec/share/vpN8BrbI011OAZ2V-Fv4eoEKLojCX6a81iRNqPcNzRuzCKuKPh_wu_fmjNN4ejmp?startTime=1588020361000)
+- [Tues Noon](https://generalassembly.zoom.us/rec/share/vfJ3cvL5zmxOaZX82BnBVvYKJK79T6a81HVM_vYFmk35gL8r5oUfprh-cXZGklSP?startTime=1588088932000)
+
+__SQL Lessons led by Mahdi__
+
+- [SQL Basics](https://generalassembly.zoom.us/rec/share/69xYMurL1DNJZZHn60rABaQgO7_aT6a81XUc-foNzU1nj2CeOjw2C7tpFl8h7axr)
+- [SQL Intermediate](https://generalassembly.zoom.us/rec/share/pu5-AZb80DJOH7f_2nnnQb8lQpq1T6a813dKrvEFzx0NODlpWfxNDPppn7RgyHuP)
+- [SQL Advanced](https://generalassembly.zoom.us/rec/share/yJMoH5jt9WhJZaP1zGaEXr47RtT3aaa80CgdrqcKyxxuqDPfhqjHEBNROLkhZrEy)
+
+---
+
+- [Thurs Later](https://generalassembly.zoom.us/rec/share/4ex6Jrzv621IGYnN0XzeapMQG5_CX6a81iZI-Pdcyhxnb4gPj2seUaaYiDZNa_aZ?startTime=1588269338000)
+- [Fri Noon](https://generalassembly.zoom.us/rec/share/5NJQMbqh23pIE5Hv0xzwQf9wE57caaa80CUd-KYFzUv-KlV9n66ZE2ACKDekyxBM?startTime=1588347660000)
+
+## Week 8
+- [Mon Noon](https://generalassembly.zoom.us/rec/share/os17drTx819IGdb1wWrAWekORYD6X6a81CRLqaBcyR4NV5Vhhy2qrbmBHJbP4dQj?startTime=1588607685000)
