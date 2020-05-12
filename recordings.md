@@ -71,8 +71,9 @@ __SQL Lessons led by Mahdi__
 - [Fri Noon](https://generalassembly.zoom.us/rec/share/5NJQMbqh23pIE5Hv0xzwQf9wE57caaa80CUd-KYFzUv-KlV9n66ZE2ACKDekyxBM?startTime=1588347660000)
 
 ## Week 8
-- [Mon Noon](https://generalassembly.zoom.us/rec/share/os17drTx819IGdb1wWrAWekORYD6X6a81CRLqaBcyR4NV5Vhhy2qrbmBHJbP4dQj?startTime=1588607685000)
+- [Mon Noon: Geographic data](https://generalassembly.zoom.us/rec/share/os17drTx819IGdb1wWrAWekORYD6X6a81CRLqaBcyR4NV5Vhhy2qrbmBHJbP4dQj?startTime=1588607685000)
+- [Tues Noon: GitHub collaboration](https://generalassembly.zoom.us/rec/share/5OlyIpqv9V5Jabf_yxH5RIJ6RI3kX6a8higW-PQLmUhg53ASzr4sl-RI0L3Es9IF?startTime=1588694095000)
 
 ## Week 9
-- [Mon Noon](https://generalassembly.zoom.us/rec/share/w8dwKrupqkRLXLPE2kWGdJ4uOIK1eaa8h3UY86VfmE9Fq25alTg2cLDFet9Gjdpb?startTime=1589211879000)
-- [Mon Later](https://generalassembly.zoom.us/rec/share/zpN6Ap3orHxIZKuXwmr1ZIF9RanMX6a8hnAbr_MMnhqAWNuSkBXSqQf4PRpijGBM?startTime=1589227625000)
+- [Mon Noon: Streamlit1](https://generalassembly.zoom.us/rec/share/w8dwKrupqkRLXLPE2kWGdJ4uOIK1eaa8h3UY86VfmE9Fq25alTg2cLDFet9Gjdpb?startTime=1589211879000)
+- [Mon Later: Streamlit2](https://generalassembly.zoom.us/rec/share/zpN6Ap3orHxIZKuXwmr1ZIF9RanMX6a8hnAbr_MMnhqAWNuSkBXSqQf4PRpijGBM?startTime=1589227625000)
