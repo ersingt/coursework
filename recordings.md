@@ -77,3 +77,5 @@ __SQL Lessons led by Mahdi__
 ## Week 9
 - [Mon Noon: Streamlit1](https://generalassembly.zoom.us/rec/share/w8dwKrupqkRLXLPE2kWGdJ4uOIK1eaa8h3UY86VfmE9Fq25alTg2cLDFet9Gjdpb?startTime=1589211879000)
 - [Mon Later: Streamlit2](https://generalassembly.zoom.us/rec/share/zpN6Ap3orHxIZKuXwmr1ZIF9RanMX6a8hnAbr_MMnhqAWNuSkBXSqQf4PRpijGBM?startTime=1589227625000)
+- [Fri Morning: Client Project Presentations](https://generalassembly.zoom.us/rec/share/2PFRCejerU1JZpHjz13UBpMDO63YX6a81CQe-6APxU0fKY9Ud_laZkXQLwFU4zUV?startTime=1589551132000)
+- [Fri Later: Plotly](https://generalassembly.zoom.us/rec/share/ws1fI7quy0dJXY3Qz1jkVqx-A5zgT6a80SEf_6cNyUda-DZPgvJJiYRhXJYQYfaT?startTime=1589562030000)
