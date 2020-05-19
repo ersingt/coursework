@@ -13,8 +13,8 @@ A place for DC-specific course information and flex time activities/materials - 
 -   [Week 6](./06-Week) - Advanced Supervised Learning - Tree Based Methods (Decision Trees and Random Forests), Bootstrapping and Bagging, Boosting, Support Vector Machines, Generalized Linear Models, Gradient Descent.
 -   [Week 7](./07-Week) - Data Engineering and Big Data - SQL, Scala, Spark
 -   [Week 8](./08-Week) - Unsupervised Learning - Clustering & Dimensionality Reduction, Missing Data, Recommender Systems 
--   Week 9 - Time Series Analysis, Flask
--   Week 10 - Bayesian Statistics
+-   [Week 9](./09-Week) - Time Series Analysis, Flask
+-   [Week 10](./10-Week) - Bayesian Statistics
 -   Week 11 - Deep Learning and Neural Network
 -   Week 12 - Capstone work and Flex Time
 
