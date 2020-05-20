@@ -79,3 +79,7 @@ __SQL Lessons led by Mahdi__
 - [Mon Later: Streamlit2](https://generalassembly.zoom.us/rec/share/zpN6Ap3orHxIZKuXwmr1ZIF9RanMX6a8hnAbr_MMnhqAWNuSkBXSqQf4PRpijGBM?startTime=1589227625000)
 - [Fri Morning: Client Project Presentations](https://generalassembly.zoom.us/rec/share/2PFRCejerU1JZpHjz13UBpMDO63YX6a81CQe-6APxU0fKY9Ud_laZkXQLwFU4zUV?startTime=1589551132000)
 - [Fri Later: Plotly](https://generalassembly.zoom.us/rec/share/ws1fI7quy0dJXY3Qz1jkVqx-A5zgT6a80SEf_6cNyUda-DZPgvJJiYRhXJYQYfaT?startTime=1589562030000)
+
+
+## Week 10
+- [Wed Noon: Time Series](https://generalassembly.zoom.us/rec/share/7JB2frqz31xLfZ3y7mPhQLMxP5TfX6a81nBL-aYFzEfjt6PX0ydpgGspfjdMuDet?startTime=1589989149000)
